@@ -1,0 +1,8 @@
+git branch ---> Mirar las rama locales
+git checkout ---> Cambiar a otra rama
+git branch 'nombreBranca' ---> Crear una rama
+git push -u origin 'nombreRama' ---> Asociar a un repositorio remoto
+git remote -v ---> Ver los repositorios remotos conectados
+git remote rm 'nombreRepositorio' ---> Borrar repositorio remoto
+git remote add origin 'enlaceRepositorio' ---> Conectar con un nuevo repositorio remoto
+git merge 'nombreRama' ---> Juntar la rama nombrada con la rama actual
